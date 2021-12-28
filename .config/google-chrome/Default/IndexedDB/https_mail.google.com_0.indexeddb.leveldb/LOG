@@ -1,0 +1,6 @@
+2021/12/28-10:28:33.419 1997 Reusing MANIFEST /home/suneethaanipireddy/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/28-10:28:33.419 1997 Recovering log #13
+2021/12/28-10:28:33.440 1997 Reusing old log /home/suneethaanipireddy/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000013.log 
+2021/12/28-10:32:14.590 1a97 Level-0 table #17: started
+2021/12/28-10:32:14.618 1a97 Level-0 table #17: 1565803 bytes OK
+2021/12/28-10:32:14.621 1a97 Delete type=0 #13

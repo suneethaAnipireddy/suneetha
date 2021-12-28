@@ -1,0 +1,6 @@
+2021/12/27-15:13:34.899 23b6 Reusing MANIFEST /home/suneethaanipireddy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-15:13:34.899 23b6 Recovering log #3
+2021/12/27-15:13:34.912 23b6 Reusing old log /home/suneethaanipireddy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/12/27-15:13:36.891 23df Level-0 table #5: started
+2021/12/27-15:13:36.908 23df Level-0 table #5: 1096541 bytes OK
+2021/12/27-15:13:36.910 23df Delete type=0 #3
