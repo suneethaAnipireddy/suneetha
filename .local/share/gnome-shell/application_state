@@ -3,17 +3,17 @@
   <context id="">
     <application id="gnome-control-center.desktop" open-window-count="0" score="42" last-seen="1640593523"/>
     <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="94" last-seen="1640669220"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="95" last-seen="1640676660"/>
     <application id="update-manager.desktop" open-window-count="0" score="8" last-seen="1640321289"/>
     <application id="notepad-plus-plus_notepad-plus-plus.desktop" open-window-count="0" score="40" last-seen="1640605655"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="7528" last-seen="1640676154"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="7539" last-seen="1640676831"/>
     <application id="rhythmbox.desktop" open-window-count="0" score="2" last-seen="1640435906"/>
     <application id="org.gnome.gedit.desktop" open-window-count="1" score="22" last-seen="1640669213"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3198" last-seen="1640676104"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3276" last-seen="1640676753"/>
     <application id="gedit_gedit.desktop" open-window-count="0" score="64" last-seen="1640320617"/>
     <application id="org.gnome.Calendar.desktop" open-window-count="0" score="3" last-seen="1640605720"/>
     <application id="org.gnome.Software.desktop" open-window-count="0" score="18" last-seen="1640665164"/>
-    <application id="libreoffice-writer.desktop" open-window-count="0" score="1837" last-seen="1640605736"/>
+    <application id="libreoffice-writer.desktop" open-window-count="1" score="1838" last-seen="1640676671"/>
   </context>
 </application-state>
