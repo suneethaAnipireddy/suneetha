@@ -272,3 +272,13 @@ sudo ufw allow OpenSSH
 sudo ufw enable
 sudo ufw status
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+jenkins --vesion
+jenkins --version
+clear
+git --version
+git clon
+git clone https://github.com/suneethaAnipireddy/practice.git
+git status
+git add .
+git commit -m "initial commit"
+git push -u origini main
